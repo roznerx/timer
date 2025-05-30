@@ -7,12 +7,12 @@ Made by **roznerx** (ignaciorosner@gmail.com)
 - Not much to say: set up the project in [Vite](https://vite.dev/guide/?ref=reactpractice.dev#scaffolding-your-first-vite-project) as suggested in the challenge, then modified the default styles to my liking
 - Timer is very simple, using all items required in the challenge plus a couple extras that help the timer work better (for example, not allowing to click the **START** button repeatedly, and so)
 - Took just a couple hours, but I'll use the rest time in order to take a break... Although I might be curious about what's next!
-- 
+
 *Link to the challenge:* https://reactpractice.dev/start-here/ 
 
 *Link to the exercise:* https://reactpractice.dev/exercise/create-a-timer-that-can-be-started-and-stopped/?utm_source=calendar.reactpractice.dev&utm_medium=social&utm_campaign=calendar-v1
 
-**NOTE:** nothing interesting to add, as it was quite simple (although a good showcase of how to use ```setInterval```, ```clearInterval``` and ```useRef```; those get asked aboot **A LOT** at interviews, so it is always a good practice!
+**NOTE:** nothing interesting to add, as it was quite simple (although a good showcase of how to use ```setInterval```, ```clearInterval``` and ```useRef```; those get asked about **A LOT** at interviews, so it is always a good practice!
 
 ## Screenshots:
 
